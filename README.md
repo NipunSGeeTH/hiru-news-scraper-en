@@ -9,7 +9,7 @@
     <li><strong>Clone the repository:</strong></li>
       <pre><code>git clone https://github.com/nipunsgeeth/hiru-news-scraper.git</code></pre>
     <li><strong>Navigate to the project directory:</strong></li>
-      <pre><code>cd hiru-news-scraper</code></pre>
+      <pre><code>cd hiru-news-scraper-en</code></pre>
     <li><strong>Install dependencies:</strong></li>
       <pre><code>pip install pip install requests
 pip install beautifulsoup4
