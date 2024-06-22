@@ -7,7 +7,7 @@
 
   <ol>
     <li><strong>Clone the repository:</strong></li>
-      <pre><code>git clone https://github.com/nipunsgeeth/hiru-news-scraper.git</code></pre>
+      <pre><code>git clone https://github.com/nipunsgeeth/hiru-news-scraper-en.git</code></pre>
     <li><strong>Navigate to the project directory:</strong></li>
       <pre><code>cd hiru-news-scraper-en</code></pre>
     <li><strong>Install dependencies:</strong></li>
